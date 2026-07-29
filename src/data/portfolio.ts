@@ -8,11 +8,11 @@ export const personalInfo = {
   email: 'beji.maram@esprit.tn',
   linkedin: 'https://linkedin.com/in/maram-beji',
   github: 'https://github.com/marambeji',
-  avatarUrl: '/maram-beji.jpg',
+  avatarUrl: `${import.meta.env.BASE_URL}maram-beji.jpg`,
   bio: `Élève ingénieure en informatique à ESPRIT, sérieuse, motivée et adaptable. Je possède une expérience dans la conception d’applications web full stack, la gestion de bases de données, l’intégration CI/CD et le développement d’interfaces performantes. Curieuse et autonome, j’apprends rapidement et j’aime transformer des besoins métiers en solutions numériques fiables et faciles à utiliser.`,
   shortHeroSentence: 'Je conçois des applications web modernes, performantes et adaptées aux besoins des utilisateurs.',
   availability: 'Ouverte aux opportunités de stage et aux projets collaboratifs',
-  cvPath: '/cv-maram-beji.pdf',
+  cvPath: `${import.meta.env.BASE_URL}cv-maram-beji.pdf`,
 };
 
 export const aboutIndicators = [
