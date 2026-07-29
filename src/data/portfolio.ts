@@ -53,7 +53,7 @@ export const experiences: Experience[] = [
     organization: 'VOLUS (NOVOLUS à l’international)',
     organizationUrl: 'https://volus.tn/',
     type: 'Stage ingénieur',
-    period: 'Juillet 2026 - Août 2026 (2 mois)',
+    period: 'Juillet 2026 - En cours',
     details: [
       'Conception et développement d’un portail complet de gestion des congés pour VOLUS (entreprise internationale opérant sous la marque NOVOLUS à l’étranger).',
       'Mise en place de workflows d’approbation séquentiels multi-niveaux pour les employés et managers RH.',
@@ -90,6 +90,17 @@ export const experiences: Experience[] = [
     technologies: ['React', 'Node.js', 'Méthodes Agile'],
   },
   {
+    id: 'maison-maghreb',
+    title: 'Projet Maison du Maghreb',
+    organization: 'ESPRIT',
+    type: 'Projet académique',
+    period: 'Fév - Mai 2025',
+    details: [
+      'Développement Full Stack Modules Articles & Commentaires : CRUD, Ajax, pagination.',
+    ],
+    technologies: ['Symfony 6', 'PHP 8', 'MySQL'],
+  },
+  {
     id: 'pfe-document-workflow',
     title: 'Stage de PFE : Conception et réalisation d’une plateforme d’un workflow De Gestion De Documents',
     organization: 'Siège Banque de Tunisie',
@@ -102,17 +113,6 @@ export const experiences: Experience[] = [
       'Système de téléchargement et de prévisualisation.',
     ],
     technologies: ['C#', '.NET', 'SQL SERVER'],
-  },
-  {
-    id: 'maison-maghreb',
-    title: 'Projet Maison du Maghreb',
-    organization: 'ESPRIT',
-    type: 'Projet académique',
-    period: 'Fév - Mai 2024',
-    details: [
-      'Développement Full Stack Modules Articles & Commentaires : CRUD, Ajax, pagination.',
-    ],
-    technologies: ['Symfony 6', 'PHP 8', 'MySQL'],
   },
   {
     id: 'student-mgmt',
