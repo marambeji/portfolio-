@@ -53,7 +53,7 @@ export const experiences: Experience[] = [
     organization: 'VOLUS (NOVOLUS à l’international)',
     organizationUrl: 'https://volus.tn/',
     type: 'Stage ingénieur',
-    period: 'Juillet 2026 - En cours',
+    period: 'Juillet 2026 - Août 2026',
     details: [
       'Conception et développement d’un portail complet de gestion des congés pour VOLUS (entreprise internationale opérant sous la marque NOVOLUS à l’étranger).',
       'Mise en place de workflows d’approbation séquentiels multi-niveaux pour les employés et managers RH.',
